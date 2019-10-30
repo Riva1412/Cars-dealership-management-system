@@ -1,0 +1,9 @@
+D:\programing\visual studio\Login_panal\bin\Debug\Login_panal.exe.config
+D:\programing\visual studio\Login_panal\bin\Debug\Login_panal.exe
+D:\programing\visual studio\Login_panal\bin\Debug\Login_panal.pdb
+D:\programing\visual studio\Login_panal\obj\Debug\Login_panal.Properties.Resources.resources
+D:\programing\visual studio\Login_panal\obj\Debug\Login_panal.csproj.GenerateResource.cache
+D:\programing\visual studio\Login_panal\obj\Debug\Login_panal.exe
+D:\programing\visual studio\Login_panal\obj\Debug\Login_panal.pdb
+D:\programing\visual studio\Login_panal\obj\Debug\Login_panal.csprojAssemblyReference.cache
+D:\programing\visual studio\Login_panal\obj\Debug\Login_panal.loginForm.resources
